@@ -14,8 +14,8 @@ describe("division basic calculate", () => {
   });
 
   it("should return negative ", () => {
-    const result = makeSub(9, 10).sub();
-    expect(result).lessThanOrEqual(0);
+    const response = makeSub(9, 10).sub();
+    expect(response).lessThanOrEqual(0);
   });
 
   it("should throw exception", async () => {

@@ -22,11 +22,11 @@
     - ### ( X ) Deve retornar um throw expection 
 
 - ### Class Mult
-    - ### (  ) Deve ser possivel muiltiplicar a * b  
-    - ### (  ) Deve retornar o valor especifico da multiplicação a * b
-    - ### (  ) Deve retornar um valor negativo
-    - ### (  ) Deve retornar zero
-    - ### (  ) Deve retornar um throw expection 
+    - ### ( X ) Deve ser possivel muiltiplicar a * b  
+    - ### ( X ) Deve retornar o valor especifico da multiplicação a * b
+    - ### ( X ) Deve retornar um valor negativo
+    - ### ( X ) Deve retornar zero
+    - ### ( X ) Deve retornar um throw expection 
 
 
 
