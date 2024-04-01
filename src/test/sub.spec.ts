@@ -18,7 +18,7 @@ describe("division basic calculate", () => {
     expect(response).lessThanOrEqual(0);
   });
 
-  it("should throw exception", () => {
+  it("should throw exception", async () => {
     expect(() => makeSub(1, 2).subException()).throw(CalcException);
   });
 });
